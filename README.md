@@ -7,3 +7,5 @@
     - Prompts user to enter a task
 - App.js
     - Initialize the task list
+
+[[<img src="image.png" width="250"/>]](image.png )
